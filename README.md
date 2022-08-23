@@ -1,7 +1,7 @@
 # Vector---geopandas-shapely
 
 
-# Save vector f
+# Save geodataframe to file (if there is a problem with geometry)
 
 ```python
 from geopandas import GeoSeries, GeoDataFrame
