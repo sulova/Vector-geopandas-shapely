@@ -1,6 +1,9 @@
 # Vector---geopandas-shapely
 
 
+Problems: *GeometryTypeValidationError: Record's geometry type does not match collection schema's geometry type: 'MultiPolygon' != 'Polygon'*
+
+
 - Save geodataframe to file (if there is a problem with geometry)
 
 ```python
